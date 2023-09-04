@@ -23,7 +23,6 @@ resume_link_title: Download Resume
 # link, if given).
 menu:
 - {name: 'Projects', url: ' '}
-- {name: 'Blog',     url: 'blog'}
 - {name: 'About',    url: 'about'}
 - {name: 'Contact',  url: 'contact'}
 
@@ -32,7 +31,6 @@ menu:
 
 social_label: Connect
 social:
-- {icon: 'twitter',   link: 'https://twitter.com/paululele'}
 - {icon: 'instagram', link: 'https://instagram.com/paululele'}
 - {icon: 'github',    link: 'https://github.com/lenpaul'}
 - {icon: 'linkedin',  link: 'https://linkedin.com/in/lenpaul'}
