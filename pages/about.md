@@ -7,12 +7,18 @@ permalink: /about
 
 # Education
 
-**University of Pennsylvania** 
-*Weitzman School of Design*
-Dual degree candidate in Master of Landscape Architecture and Master of City Planning
+### **University of Pennsylvania**  
 
-**University of California, Berkeley** 
-*Rausser College of Natural Resources*
-_Bachelor of Science, Molecular Environmental Biology_
-*College of Environmental Design*
-_Bachelor of Arts, Landscape Architecture_
+  - #### Weitzman School of Design  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dual degree candidate in Master of Landscape Architecture and Master of City Planning
+
+### **University of California, Berkeley**  
+
+  - #### Rausser College of Natural Resources  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bachelor of Science, Molecular Environmental Biology  
+
+  - #### College of Environmental Design  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bachelor of Arts, Landscape Architecture  
