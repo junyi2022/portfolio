@@ -23,6 +23,7 @@ resume_link_title: Download Resume
 # link, if given).
 menu:
 - {name: 'Projects', url: ' '}
+- {name: 'Story', url: 'https://junyi2022.github.io/fall2023--story-map-project/templates/storypages/'}
 - {name: 'About',    url: 'about'}
 - {name: 'Contact',  url: 'contact'}
 
